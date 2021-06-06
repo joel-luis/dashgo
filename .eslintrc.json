@@ -28,6 +28,7 @@
       "no-console": "off",
       "camelcase": "off",
       "react/prop-types": "off",
+      "react/require-default-props": "off",
       "consistent-return": "off",
       "jsx-a11y/anchor-is-valid": "off",
       "jsx-a11y/anchor-has-content": "off", 
